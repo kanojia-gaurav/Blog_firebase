@@ -1,6 +1,6 @@
 # Blog_firebase
 ## Images
 
-![](signin.jpg)
+![](signin.JPG)
 
-![](forgetpassword.jpg)
+![](forgetpassword.JPG)
